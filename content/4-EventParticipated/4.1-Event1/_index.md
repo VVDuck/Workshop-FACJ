@@ -1,126 +1,135 @@
 ---
-title: "Event 1"
-date: 2024-01-01
+title: "AWS AI Journey - Knowledge Sharing Event"
+date: 2026-05-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
-
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: “AWS AI Journey – Knowledge Sharing Event”
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Encourage continuous learning habits in the AI era.
+- Introduce practical techniques to improve Large Language Model (LLM) outputs.
+- Prepare students and fresh graduates with AI-ready skills and mindset.
+- Present the BMAD Method for integrating AI into modern software development workflows.
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Huynh Hoang Long** – Admin of FCAI
+- **Nguyen Tuan Thinh** – DevOps/Cloud Engineer, First Cloud AI Journey
+- **AI Journey Community Speaker** – AI-Ready Freshers
+- **AI Journey Community Speaker** – BMAD Method
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### Addicted to Learning Like You're Addicted to Social Media
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+The session focused on making learning as engaging and consistent as scrolling through social media.
 
-#### Transitioning to modern application architecture – Microservices
+- Build learning habits through small daily goals.
+- Replace passive content consumption with active learning.
+- Use AI as a personal tutor and study companion.
+- Maintain consistency instead of relying on motivation.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### Automated Prompt Engineering: Enhancing LLM Output Quality
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+The presentation introduced techniques for improving AI-generated responses through prompt optimization.
 
-#### Domain-Driven Design (DDD)
+- Fundamentals of Prompt Engineering.
+- Automated prompt generation and refinement.
+- Context management for better AI responses.
+- Evaluation methods to improve response quality.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### AI-Ready Freshers
 
-#### Event-Driven Architecture
+The session shared the essential skills and mindset required for students entering the AI-driven workforce.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+- Develop AI literacy alongside technical knowledge.
+- Strengthen communication and problem-solving abilities.
+- Learn continuously to adapt to rapidly changing technologies.
+- Build personal projects using AI tools.
 
-#### Compute Evolution
+#### BMAD Method
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+The presentation introduced the BMAD Method, a workflow that combines Agile practices with AI-powered development.
 
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- AI-assisted software development workflow.
+- Integrating AI into IDE environments.
+- AI collaboration throughout the software lifecycle.
+- Improving productivity through structured AI workflows.
 
 ### Key Takeaways
 
-#### Design Mindset
+#### Learning Mindset
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+- Continuous learning is more valuable than short-term intensive studying.
+- Build sustainable learning habits through consistency.
+- AI should be used as a learning assistant rather than a replacement for critical thinking.
 
-#### Technical Architecture
+#### AI Skills
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+- Effective Prompt Engineering significantly improves AI-generated results.
+- High-quality context leads to higher-quality outputs.
+- AI tools increase productivity when combined with human expertise.
 
-#### Modernization Strategy
+#### Career Preparation
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+- Fresh graduates should combine technical skills with adaptability.
+- Practical projects demonstrate AI capability better than certificates.
+- Lifelong learning is essential in the AI era.
+
+#### Software Development
+
+- AI can support every phase of software development.
+- Structured development methodologies improve AI collaboration.
+- Combining Agile practices with AI increases development efficiency.
 
 ### Applying to Work
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+- Develop a daily learning routine using AI-assisted study techniques.
+- Apply Prompt Engineering practices when working with ChatGPT and other LLMs.
+- Build AI-powered personal projects to strengthen practical experience.
+- Explore the BMAD Method to integrate AI into software development workflows.
+- Continue improving both technical and soft skills for future career opportunities.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Attending the **AWS AI Journey Knowledge Sharing Event** provided valuable insights into learning strategies, AI technologies, and modern software development practices.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+#### Learning from experienced speakers
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+- Industry professionals shared practical experiences rather than purely theoretical knowledge.
+- Real-world examples demonstrated how AI is changing education and software engineering.
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+#### Practical AI knowledge
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+- Learned how Prompt Engineering directly affects LLM response quality.
+- Understood how AI tools can accelerate programming, research, and content creation.
+- Explored methods for integrating AI into daily workflows.
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+#### Career development
 
-#### Some event photos
-*Add your event photos here*  
+- Gained a clearer understanding of the competencies expected from AI-ready graduates.
+- Recognized the importance of adaptability and continuous learning.
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+#### Modern development practices
+
+- Discovered the BMAD Method for combining Agile methodologies with AI.
+- Learned how AI assistants can improve productivity during software development.
+
+#### Lessons Learned
+
+- Sustainable learning habits create long-term growth.
+- Effective prompts produce significantly better AI responses.
+- AI is becoming an essential productivity tool for developers.
+- Continuous learning and adaptability are the keys to succeeding in the AI era.
+
+#### Some Event Photos
+
+![](/images/event/event1-2.jpg)
+
+![](/images/event/event1-1.jpg)
+
+> Overall, the event broadened my understanding of AI applications, effective learning strategies, Prompt Engineering, career preparation, and AI-assisted software development. It also inspired me to continuously improve my skills and embrace AI as a powerful learning and development partner.

@@ -1,126 +1,135 @@
 ---
 title: "Event 2"
-date: 2024-01-01
-weight: 1
+date: 2026-07-11
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
-
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: “AWS AI Journey – Career Development & Cloud Technology Sharing”
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Showcase the Cloud Architect competition and participants' solutions.
+- Introduce the new AWS Security Agent service and its practical applications.
+- Share real-world working experiences from an experienced cloud engineer.
+- Provide guidance for learning Cloud Computing and preparing for AWS certification exams.
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Cloud Architect Finalists** – First Cloud AI Journey
+- **Nguyen Tuan Thinh** – DevOps/Cloud Engineer
+- **HUFLIT Alumni** – Cloud Engineer
+- **FCAJ Admin Team** – AWS Learning & Certification Guidance
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### Cloud Architect Grand Final
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+The event featured the final competition between the two best teams in the First Cloud AI Journey program.
 
-#### Transitioning to modern application architecture – Microservices
+- Teams presented cloud architecture solutions based on real-world scenarios.
+- Explained architectural decisions, scalability, security, and cost optimization.
+- Demonstrated teamwork, presentation skills, and problem-solving abilities.
+- Judges provided professional feedback and suggestions for improvement.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### AWS Security Agent
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+Mr. Nguyen Tuan Thinh introduced AWS Security Agent, one of AWS's latest AI-powered security services.
 
-#### Domain-Driven Design (DDD)
+- Overview of AWS Security Agent capabilities.
+- Strengths and limitations of the service.
+- AI-assisted vulnerability analysis and security recommendations.
+- Potential to replace certain manual penetration testing tasks.
+- High operating cost, making it less suitable for personal projects or small-scale systems.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### Career Sharing from a HUFLIT Alumni
 
-#### Event-Driven Architecture
+A former student from Ho Chi Minh City University of Foreign Languages – Information Technology (HUFLIT) shared practical career experiences.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+- Career journey from university to becoming a Cloud Engineer.
+- Importance of continuous learning and hands-on practice.
+- Common challenges faced by fresh graduates.
+- Advice on developing technical and soft skills for long-term career growth.
 
-#### Compute Evolution
+#### Learning Cloud the Right Way
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+The FCAJ Admin Team shared an effective roadmap for learning AWS Cloud.
 
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- Understanding AWS fundamentals before studying advanced services.
+- Choosing the appropriate AWS certification path.
+- Effective preparation strategies for AWS certification exams.
+- Recommended learning resources, practice labs, and documentation.
+- Common mistakes learners should avoid during certification preparation.
 
 ### Key Takeaways
 
-#### Design Mindset
+#### Cloud Architecture
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+- Designing cloud solutions requires balancing scalability, security, availability, and cost.
+- Team collaboration and architecture presentation are essential professional skills.
+- Real-world scenarios help strengthen architecture design thinking.
 
-#### Technical Architecture
+#### Cloud Security
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+- AI-powered security services can automate vulnerability analysis.
+- Security Agent improves efficiency but should complement—not completely replace—security professionals.
+- Cost considerations are important when selecting cloud security services.
 
-#### Modernization Strategy
+#### Career Development
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+- Continuous learning and practical experience are both essential.
+- Building projects and maintaining a strong portfolio increase career opportunities.
+- Communication and teamwork are valuable alongside technical expertise.
+
+#### AWS Certification
+
+- A structured learning roadmap is more effective than studying random topics.
+- Hands-on labs are critical for understanding AWS services.
+- Certification preparation should focus on both theoretical knowledge and practical skills.
 
 ### Applying to Work
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+- Apply cloud architecture principles when designing future AWS projects.
+- Explore AWS Security Agent to understand AI-assisted cloud security solutions.
+- Build more practical AWS projects to strengthen technical skills.
+- Follow a structured learning roadmap to prepare for AWS certification exams.
+- Continue improving both technical knowledge and professional communication skills.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Participating in the **AWS AI Journey – Career Development & Cloud Technology Sharing** event provided valuable insights into cloud architecture, cloud security, career development, and AWS certification preparation.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+#### Learning from real-world projects
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+- Watching the Cloud Architect Final helped me understand how cloud solutions are designed and presented professionally.
+- The judges' feedback highlighted important considerations for building scalable and secure systems.
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+#### Exploring new AWS services
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+- The Security Agent session introduced me to AI-powered cloud security services.
+- I gained a better understanding of both the advantages and practical limitations of adopting new AWS technologies.
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+#### Career inspiration
 
-#### Some event photos
-*Add your event photos here*  
+- Listening to the HUFLIT alumnus helped me better understand the transition from university to the workplace.
+- The practical advice motivated me to continue building projects and improving my technical skills.
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+#### AWS learning roadmap
+
+- The certification sharing session clarified how to prepare effectively for AWS exams.
+- I learned that combining documentation, hands-on labs, and continuous practice is the most effective learning strategy.
+
+#### Lessons Learned
+
+- Good cloud architecture requires balancing business requirements and technical implementation.
+- AI is increasingly supporting cloud security but should be used appropriately.
+- Practical experience is as important as theoretical knowledge.
+- A clear roadmap makes learning AWS more efficient and less overwhelming.
+
+#### Some Event Photos
+
+![Evidence](/images/event/event2-3.jpg)
+
+![Evidence](/images/event/event2-2.jpg)
+> Overall, this event expanded my understanding of cloud architecture, AI-powered cloud security, career development, and AWS certification. It also provided practical guidance that will help me continue my learning journey and prepare for a future career in Cloud Computing.
