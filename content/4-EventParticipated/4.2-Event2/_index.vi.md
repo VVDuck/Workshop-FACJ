@@ -8,6 +8,15 @@ pre: " <b> 4.2. </b> "
 
 # Bài thu hoạch “AWS AI Journey – Chia sẻ về Định hướng nghề nghiệp & Công nghệ Cloud”
 
+### Thông tin sự kiện
+| | |
+|---|---|
+| **Event Name** | AWS First Cloud AI Journey — Community Day |
+| **Date** | 11/07/2026 |
+| **Location** | 26th Floor, Bitexco Financial Tower, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City |
+| **Organizer** | AWS Study Group |
+| **Role** | Participant / Intern |
+
 ### Mục Đích Của Sự Kiện
 
 - Theo dõi và học hỏi từ vòng Chung kết cuộc thi Cloud Architect của FCAJ.

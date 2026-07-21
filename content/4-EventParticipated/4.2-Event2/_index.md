@@ -8,6 +8,15 @@ pre: " <b> 4.2. </b> "
 
 # Summary Report: “AWS AI Journey – Career Development & Cloud Technology Sharing”
 
+### Event Information
+| | |
+|---|---|
+| **Event Name** | AWS First Cloud AI Journey — Community Day |
+| **Date** | 11/07/2026 |
+| **Location** | 26th Floor, Bitexco Financial Tower, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City |
+| **Organizer** | AWS Study Group |
+| **Role** | Participant / Intern |
+
 ### Event Objectives
 
 - Showcase the Cloud Architect competition and participants' solutions.

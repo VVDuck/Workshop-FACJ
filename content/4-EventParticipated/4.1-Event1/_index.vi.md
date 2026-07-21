@@ -1,5 +1,5 @@
 ---
-title: "AWS AI Journey Community Meetup"
+title: "Event 1"
 date: 2026-05-09
 weight: 1
 chapter: false
@@ -7,6 +7,15 @@ pre: " <b> 4.1. </b> "
 ---
 
 # Bài thu hoạch “AWS AI Journey Community Meetup”
+
+### Thông tin sự kiện
+| | |
+|---|---|
+| **Event Name** | AWS First Cloud AI Journey — Community Day |
+| **Date** | 09/05/2026 |
+| **Location** | 26th Floor, Bitexco Financial Tower, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City |
+| **Organizer** | AWS Study Group |
+| **Role** | Participant / Intern |
 
 ### Mục Đích Của Sự Kiện
 

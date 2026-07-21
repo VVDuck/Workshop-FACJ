@@ -7,7 +7,7 @@ pre: " <b> 4. </b> "
 ---
 
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During my internship, I participated in three events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
 
 ### [Event 1](4.1-Event1/)  
 &emsp;**Event Name:** The Automated Prompt Engineering method aims to improve the response quality of large language models (LLMs).
@@ -24,6 +24,17 @@ During my internship, I participated in two events. Each one was a memorable exp
 &emsp;**Event Name:** AWS Security Agent – ​​AWS's new AI-powered security service.
 
 &emsp;**Date & Time:** 09:00, July 11, 2026 
+
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+
+&emsp;**Role:** Attendee  
+
+---
+
+### [Event 3](4.3-Event3/)  
+&emsp;**Event Name:** Practical lessons from 5 modules on context engineering, GenAI, CloudFront, a 36-hour hackathon, and multi-agent.
+
+&emsp;**Date & Time:** 09:00, May 23, 2026 
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
