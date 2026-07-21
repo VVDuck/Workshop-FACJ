@@ -19,11 +19,11 @@ chapter: false
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** DevOps
+&emsp; **Class:** 22DTHB1
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Internship Position:** Workforce Bootcamp - First Cloud Journey
+&emsp; **Internship Position:** Devops
 
 &emsp; **Internship Duration:** From 17/04/2026 to 30/07/2026
 
