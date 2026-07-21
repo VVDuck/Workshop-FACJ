@@ -1,12 +1,12 @@
 ---
 title: "Sharing and Feedback"
-date: 2024-01-01
+date: 2026-07-05
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Participating in the **First Cloud Journey Bootcamp - 2025** has been a valuable experience for me. During the 12-week program, I gained AWS knowledge, completed hands-on labs, and had the opportunity to work on a practical cloud project. I sincerely appreciate the FCAJ team for organizing such a meaningful learning program.
+> Participating in the **First Cloud Journey Bootcamp - 2026** has been a valuable experience for me. During the 12-week program, I gained AWS knowledge, completed hands-on labs, and had the opportunity to work on a practical cloud project. I sincerely appreciate the FCAJ team for organizing such a meaningful learning program.
 
 ### Overall Evaluation
 

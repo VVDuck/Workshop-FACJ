@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 9"
-date: 2024-02-26
+date: 2026-06-16
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.9. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Họp nhóm để thống nhất yêu cầu dự án.<br>- Phân tích yêu cầu chức năng và phi chức năng.<br>- Phân chia công việc cho từng thành viên. | 12/06 | 12/06 | Tài liệu nội bộ dự án |
-| 3 | - Thiết kế kiến trúc tổng thể của hệ thống trên AWS.<br>- Xác định các thành phần và luồng dữ liệu.<br>- Ôn tập các nguyên tắc của AWS Well-Architected Framework. | 13/06 | 13/06 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Lựa chọn các dịch vụ AWS phù hợp với dự án.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (nếu cần).<br>- Đánh giá khả năng tích hợp giữa các dịch vụ. | 14/06 | 14/06 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thiết kế sơ đồ kiến trúc bằng AWS Architecture Icons.<br>- Rà soát cấu hình mạng và bảo mật.<br>- Chuẩn bị tài liệu triển khai dự án. | 15/06 | 15/06 | Lý thuyết: https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Trình bày kiến trúc với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh giải pháp theo góp ý.<br>- Hoàn thiện kế hoạch triển khai cho giai đoạn phát triển dự án. | 16/06 | 16/06 | YouTube FCJ Bootcamp 2025 - Project Architecture Review |
+| 2 | - Họp nhóm để thống nhất yêu cầu dự án.<br>- Phân tích yêu cầu chức năng và phi chức năng.<br>- Phân chia công việc cho từng thành viên. | 12/06 | 12/06 |  |
+| 3 | - Thiết kế kiến trúc tổng thể của hệ thống trên AWS.<br>- Xác định các thành phần và luồng dữ liệu.<br>- Ôn tập các nguyên tắc của AWS Well-Architected Framework. | 13/06 | 13/06 |  |
+| 4 | - Lựa chọn các dịch vụ AWS phù hợp với dự án.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (nếu cần).<br>- Đánh giá khả năng tích hợp giữa các dịch vụ. | 14/06 | 14/06 |  |
+| 5 | - Thiết kế sơ đồ kiến trúc bằng AWS Architecture Icons.<br>- Rà soát cấu hình mạng và bảo mật.<br>- Chuẩn bị tài liệu triển khai dự án. | 15/06 | 15/06 |  |
+| 6 | - Trình bày kiến trúc với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh giải pháp theo góp ý.<br>- Hoàn thiện kế hoạch triển khai cho giai đoạn phát triển dự án. | 16/06 | 16/06 |  |
 
 ### Kết quả đạt được tuần 9
 
@@ -60,11 +60,11 @@ pre: " <b> 1.9. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Họp nhóm để thống nhất yêu cầu dự án.<br>- Phân tích yêu cầu chức năng và phi chức năng.<br>- Phân chia công việc cho từng thành viên. | 12/06 | 12/06 | Tài liệu nội bộ dự án |
-| 3 | - Thiết kế kiến trúc tổng thể của hệ thống trên AWS.<br>- Xác định các thành phần và luồng dữ liệu.<br>- Ôn tập các nguyên tắc của AWS Well-Architected Framework. | 13/06 | 13/06 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Lựa chọn các dịch vụ AWS phù hợp với dự án.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (nếu cần).<br>- Đánh giá khả năng tích hợp giữa các dịch vụ. | 14/06 | 14/06 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thiết kế sơ đồ kiến trúc bằng AWS Architecture Icons.<br>- Rà soát cấu hình mạng và bảo mật.<br>- Chuẩn bị tài liệu triển khai dự án. | 15/06 | 15/06 | Lý thuyết: https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Trình bày kiến trúc với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh giải pháp theo góp ý.<br>- Hoàn thiện kế hoạch triển khai cho giai đoạn phát triển dự án. | 16/06 | 16/06 | YouTube FCJ Bootcamp 2025 - Project Architecture Review |
+| 2 | - Họp nhóm để thống nhất yêu cầu dự án.<br>- Phân tích yêu cầu chức năng và phi chức năng.<br>- Phân chia công việc cho từng thành viên. | 12/06 | 12/06 |  |
+| 3 | - Thiết kế kiến trúc tổng thể của hệ thống trên AWS.<br>- Xác định các thành phần và luồng dữ liệu.<br>- Ôn tập các nguyên tắc của AWS Well-Architected Framework. | 13/06 | 13/06 |  |
+| 4 | - Lựa chọn các dịch vụ AWS phù hợp với dự án.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (nếu cần).<br>- Đánh giá khả năng tích hợp giữa các dịch vụ. | 14/06 | 14/06 |  |
+| 5 | - Thiết kế sơ đồ kiến trúc bằng AWS Architecture Icons.<br>- Rà soát cấu hình mạng và bảo mật.<br>- Chuẩn bị tài liệu triển khai dự án. | 15/06 | 15/06 |  |
+| 6 | - Trình bày kiến trúc với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh giải pháp theo góp ý.<br>- Hoàn thiện kế hoạch triển khai cho giai đoạn phát triển dự án. | 16/06 | 16/06 |  |
 
 ### Kết quả đạt được tuần 9
 

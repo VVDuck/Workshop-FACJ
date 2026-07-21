@@ -1,6 +1,6 @@
 ---
 title: "Week 6 Worklog"
-date: 2024-02-05
+date: 2026-05-26
 weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.6. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Learn Amazon S3 fundamentals.<br>&emsp;+ What is Amazon S3?<br>&emsp;+ Object Storage concepts.<br>&emsp;+ Bucket and Object structure.<br>&emsp;+ S3 use cases and benefits. | 22/05 | 22/05 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Learn S3 Storage Classes.<br>&emsp;+ Standard<br>&emsp;+ Intelligent-Tiering<br>&emsp;+ Standard-IA<br>&emsp;+ Glacier Instant Retrieval<br>&emsp;+ Glacier Flexible Retrieval<br>&emsp;+ Glacier Deep Archive | 23/05 | 23/05 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Practice creating and configuring S3 Buckets.<br>- Upload, download and delete objects.<br>- Configure Bucket Versioning.<br>- Configure Bucket Policies and Block Public Access.<br>- Manage folders and objects. | 24/05 | 24/05 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - Amazon S3 Lab |
-| 5 | - Learn AWS Storage Gateway.<br>- Understand File Gateway architecture.<br>- Create File Shares.<br>- Learn hybrid storage scenarios and integration with Amazon S3. | 25/05 | 25/05 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - Storage Gateway Lab |
-| 6 | - Practice lifecycle management for S3 objects.<br>- Configure Lifecycle Rules.<br>- Review Amazon S3 security features.<br>- Complete all S3 and Storage Gateway practice labs. | 26/05 | 26/05 | YouTube FCJ Bootcamp 2025 - Amazon S3 Lifecycle Lab |
+| 2 | - Learn Amazon S3 fundamentals.<br>&emsp;+ What is Amazon S3?<br>&emsp;+ Object Storage concepts.<br>&emsp;+ Bucket and Object structure.<br>&emsp;+ S3 use cases and benefits. | 22/05 | 22/05 | https://www.youtube.com/watch?v=hsCfP0IxoaM&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=103 |
+| 3 | - Learn S3 Storage Classes.<br>&emsp;+ Standard<br>&emsp;+ Intelligent-Tiering<br>&emsp;+ Standard-IA<br>&emsp;+ Glacier Instant Retrieval<br>&emsp;+ Glacier Flexible Retrieval<br>&emsp;+ Glacier Deep Archive | 23/05 | 23/05 | https://www.youtube.com/watch?v=_yunukwcAwc&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=104 |
+| 4 | - Practice creating and configuring S3 Buckets.<br>- Upload, download and delete objects.<br>- Configure Bucket Versioning.<br>- Configure Bucket Policies and Block Public Access.<br>- Manage folders and objects. | 24/05 | 24/05 | https://000013.awsstudygroup.com/2-prerequiste/ |
+| 5 | - Learn AWS Storage Gateway.<br>- Understand File Gateway architecture.<br>- Create File Shares.<br>- Learn hybrid storage scenarios and integration with Amazon S3. | 25/05 | 25/05 | https://www.youtube.com/watch?v=YXn8Q_Hpsu4&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=106 |
+| 6 | - Practice lifecycle management for S3 objects.<br>- Configure Lifecycle Rules.<br>- Review Amazon S3 security features.<br>- Complete all S3 and Storage Gateway practice labs. | 26/05 | 26/05 | https://000013.awsstudygroup.com/ |
 
 ### Week 6 Achievements
 

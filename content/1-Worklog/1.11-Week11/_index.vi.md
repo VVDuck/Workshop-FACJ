@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 11"
-date: 2024-03-11
+date: 2026-06-30
 weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.11. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Rà soát toàn bộ các chức năng đã triển khai.<br>- Khắc phục các lỗi còn tồn tại.<br>- Tối ưu hiệu năng của ứng dụng.<br>- Kiểm tra cấu hình các tài nguyên AWS. | 26/06 | 26/06 | Tài liệu nội bộ dự án |
-| 3 | - Triển khai (Deploy) ứng dụng lên AWS.<br>- Kiểm tra cấu hình EC2, S3, VPC và IAM.<br>- Thực hiện kiểm thử toàn bộ hệ thống.<br>- Đánh giá khả năng truy cập và hoạt động của ứng dụng. | 27/06 | 27/06 | Lý thuyết: https://cloudjourney.awsstudygroup.com/<br>Thực hành: YouTube FCJ Bootcamp 2025 - Project Deployment Lab |
-| 4 | - Tối ưu việc sử dụng tài nguyên AWS.<br>- Kiểm tra lại các cấu hình bảo mật.<br>- Theo dõi trạng thái hoạt động của hệ thống.<br>- Khắc phục các lỗi phát sinh sau khi Deploy. | 28/06 | 28/06 | YouTube FCJ Bootcamp 2025 - Deployment Review Lab |
-| 5 | - Họp nhóm tổng kết kết quả dự án.<br>- Thảo luận các hướng phát triển và mở rộng trong tương lai.<br>- Hoàn thiện tài liệu kỹ thuật và hướng dẫn triển khai hệ thống. | 29/06 | 29/06 | Tài liệu nội bộ dự án |
-| 6 | - Chuẩn bị hồ sơ thực tập.<br>- Tổng hợp mã nguồn, tài liệu kỹ thuật và slide trình bày.<br>- Kiểm tra lại toàn bộ kết quả trước khi nộp báo cáo. | 30/06 | 30/06 | Tài liệu nội bộ dự án |
+| 2 | - Rà soát toàn bộ các chức năng đã triển khai.<br>- Khắc phục các lỗi còn tồn tại.<br>- Tối ưu hiệu năng của ứng dụng.<br>- Kiểm tra cấu hình các tài nguyên AWS. | 26/06 | 26/06 |  |
+| 3 | - Triển khai (Deploy) ứng dụng lên AWS.<br>- Kiểm tra cấu hình EC2, S3, VPC và IAM.<br>- Thực hiện kiểm thử toàn bộ hệ thống.<br>- Đánh giá khả năng truy cập và hoạt động của ứng dụng. | 27/06 | 27/06 |  |
+| 4 | - Tối ưu việc sử dụng tài nguyên AWS.<br>- Kiểm tra lại các cấu hình bảo mật.<br>- Theo dõi trạng thái hoạt động của hệ thống.<br>- Khắc phục các lỗi phát sinh sau khi Deploy. | 28/06 | 28/06 |  |
+| 5 | - Họp nhóm tổng kết kết quả dự án.<br>- Thảo luận các hướng phát triển và mở rộng trong tương lai.<br>- Hoàn thiện tài liệu kỹ thuật và hướng dẫn triển khai hệ thống. | 29/06 | 29/06 |  |
+| 6 | - Chuẩn bị hồ sơ thực tập.<br>- Tổng hợp mã nguồn, tài liệu kỹ thuật và slide trình bày.<br>- Kiểm tra lại toàn bộ kết quả trước khi nộp báo cáo. | 30/06 | 30/06 |  |
 
 ### Kết quả đạt được tuần 11
 

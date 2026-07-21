@@ -1,6 +1,6 @@
 ---
 title: "Week 9 Worklog"
-date: 2024-02-26
+date: 2026-06-16
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.9. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Conduct team meetings to discuss project requirements.<br>- Analyze functional and non-functional requirements.<br>- Assign responsibilities to team members. | 12/06 | 12/06 | Internal project documents |
-| 3 | - Design the overall AWS architecture.<br>- Identify system components and data flow.<br>- Review AWS Well-Architected Framework principles. | 13/06 | 13/06 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Select AWS services for the project.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (if applicable).<br>- Evaluate service integration. | 14/06 | 14/06 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Create architecture diagrams using AWS Architecture Icons.<br>- Review networking and security configurations.<br>- Prepare deployment documentation. | 15/06 | 15/06 | Theory: https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Review the proposed architecture with mentors and teammates.<br>- Refine the solution based on feedback.<br>- Finalize the deployment plan for project implementation. | 16/06 | 16/06 | YouTube FCJ Bootcamp 2025 - Project Architecture Review |
+| 2 | - Conduct team meetings to discuss project requirements.<br>- Analyze functional and non-functional requirements.<br>- Assign responsibilities to team members. | 12/06 | 12/06 |  |
+| 3 | - Design the overall AWS architecture.<br>- Identify system components and data flow.<br>- Review AWS Well-Architected Framework principles. | 13/06 | 13/06 |  |
+| 4 | - Select AWS services for the project.<br>&emsp;+ Amazon EC2<br>&emsp;+ Amazon S3<br>&emsp;+ Amazon VPC<br>&emsp;+ IAM<br>&emsp;+ CloudWatch (if applicable).<br>- Evaluate service integration. | 14/06 | 14/06 |  |
+| 5 | - Create architecture diagrams using AWS Architecture Icons.<br>- Review networking and security configurations.<br>- Prepare deployment documentation. | 15/06 | 15/06 |  |
+| 6 | - Review the proposed architecture with mentors and teammates.<br>- Refine the solution based on feedback.<br>- Finalize the deployment plan for project implementation. | 16/06 | 16/06 |  |
 
 ### Week 9 Achievements
 

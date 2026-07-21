@@ -1,12 +1,12 @@
 ---
 title: "Nhật ký công việc"
-date: 2024-01-01
+date: 2026-07-10
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Trong suốt **12 tuần** tham gia chương trình **First Cloud Journey Bootcamp - 2025**, tôi đã ghi lại toàn bộ quá trình học tập, thực hành, triển khai dự án và các kết quả đạt được thông qua Worklog hàng tuần. Nội dung Worklog phản ánh đầy đủ các kiến thức đã học, các bài Lab đã thực hiện, cũng như quá trình xây dựng và hoàn thiện dự án trên nền tảng Amazon Web Services (AWS).
+Trong suốt **12 tuần** tham gia chương trình **First Cloud Journey Bootcamp - 2026**, tôi đã ghi lại toàn bộ quá trình học tập, thực hành, triển khai dự án và các kết quả đạt được thông qua Worklog hàng tuần. Nội dung Worklog phản ánh đầy đủ các kiến thức đã học, các bài Lab đã thực hiện, cũng như quá trình xây dựng và hoàn thiện dự án trên nền tảng Amazon Web Services (AWS).
 
 Chương trình được thực hiện trong **12 tuần**, bắt đầu từ việc tìm hiểu các kiến thức nền tảng về AWS, thực hành các dịch vụ Cloud phổ biến, đến thiết kế, triển khai và hoàn thiện một dự án thực tế trên AWS. Mỗi tuần đều có mục tiêu học tập, nội dung thực hành và kết quả đạt được cụ thể, giúp nâng cao kiến thức về Cloud Computing cũng như kỹ năng triển khai hệ thống trên AWS.
 

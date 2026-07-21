@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2024-01-29
+date: 2026-05-19
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.5. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Ôn tập kiến trúc Amazon VPC.<br>- Tìm hiểu các thành phần của VPC gồm VPC, Subnet, Route Table, Internet Gateway và NAT Gateway.<br>- Tìm hiểu các nguyên tắc thiết kế VPC theo Best Practices. | 15/05 | 15/05 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Tìm hiểu Elastic IP.<br>- Thực hành gán và hủy gán Elastic IP cho EC2 Instance.<br>- Ôn tập Route Table và cơ chế định tuyến.<br>- Phân biệt Public Routing và Private Routing. | 16/05 | 16/05 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Thực hành triển khai VPC tùy chỉnh.<br>- Tạo nhiều Public Subnet và Private Subnet.<br>- Cấu hình Internet Gateway, Route Table và Security Group.<br>- Kiểm tra khả năng kết nối giữa các tài nguyên. | 17/05 | 17/05 | Lý thuyết: https://cloudjourney.awsstudygroup.com/<br>Thực hành: YouTube FCJ Bootcamp 2025 - Amazon VPC Deployment Lab |
-| 5 | - Thực hành triển khai EC2 trong các Subnet khác nhau.<br>- Cấu hình Elastic IP cho EC2 Public.<br>- Kiểm tra khả năng truy cập Internet từ Public và Private Subnet.<br>- Xử lý các lỗi định tuyến cơ bản. | 18/05 | 18/05 | YouTube FCJ Bootcamp 2025 - VPC Networking Lab |
-| 6 | - Hoàn thành các bài Lab về Amazon VPC.<br>- Ôn tập kiến trúc mạng và cấu hình định tuyến.<br>- Tổng hợp kiến thức và ghi nhận quy trình triển khai hệ thống mạng trên AWS. | 19/05 | 19/05 | YouTube FCJ Bootcamp 2025 - Amazon VPC Hands-on Lab |
+| 2 | - Ôn tập kiến trúc Amazon VPC.<br>- Tìm hiểu các thành phần của VPC gồm VPC, Subnet, Route Table, Internet Gateway và NAT Gateway.<br>- Tìm hiểu các nguyên tắc thiết kế VPC theo Best Practices. | 15/05 | 15/05 | https://000003.awsstudygroup.com/1-introduce/ |
+| 3 | - Tìm hiểu Elastic IP.<br>- Thực hành gán và hủy gán Elastic IP cho EC2 Instance.<br>- Ôn tập Route Table và cơ chế định tuyến.<br>- Phân biệt Public Routing và Private Routing. | 16/05 | 16/05 | https://000003.awsstudygroup.com/2-firewallinvpc/2.1-securitygroup/ |
+| 4 | - Thực hành triển khai VPC tùy chỉnh.<br>- Tạo nhiều Public Subnet và Private Subnet.<br>- Cấu hình Internet Gateway, Route Table và Security Group.<br>- Kiểm tra khả năng kết nối giữa các tài nguyên. | 17/05 | 17/05 | https://000003.awsstudygroup.com/3-prerequisite/3.1-createvpc/ |
+| 5 | - Thực hành triển khai EC2 trong các Subnet khác nhau.<br>- Cấu hình Elastic IP cho EC2 Public.<br>- Kiểm tra khả năng truy cập Internet từ Public và Private Subnet.<br>- Xử lý các lỗi định tuyến cơ bản. | 18/05 | 18/05 | https://000019.awsstudygroup.com/5-routetables/ |
+| 6 | - Hoàn thành các bài Lab về Amazon VPC.<br>- Ôn tập kiến trúc mạng và cấu hình định tuyến.<br>- Tổng hợp kiến thức và ghi nhận quy trình triển khai hệ thống mạng trên AWS. | 19/05 | 19/05 |  |
 
 ### Kết quả đạt được tuần 5
 

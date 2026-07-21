@@ -1,6 +1,6 @@
 ---
 title: "Báo cáo thực tập"
-date: 2024-01-01
+date: 2026-07-10
 weight: 1
 chapter: false
 ---
@@ -13,7 +13,7 @@ chapter: false
 
 &emsp; **Số điện thoại:** 0387553561
 
-&emsp; **Email:** 2210ducvu@gmail.com
+&emsp; **Email:** 2210vuvanduc.work@gmail.com
 
 &emsp; **Trường:** Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày **17/04/2025** đến **30/04/2025**
+&emsp; **Thời gian thực tập:** Từ ngày **17/04/2026** đến **30/07/2026**
 
 ![Ảnh đại diện](/images/avata.jpg)
 

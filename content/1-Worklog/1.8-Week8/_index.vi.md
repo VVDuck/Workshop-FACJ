@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 8"
-date: 2024-02-19
+date: 2026-06-09
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.8. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Ôn tập các dịch vụ EC2, VPC, S3 và IAM.<br>- Phân tích yêu cầu của Workshop.<br>- Xác định các dịch vụ AWS cần sử dụng để triển khai. | 05/06 | 05/06 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Hoàn thành Workshop được giao.<br>- Triển khai các tài nguyên AWS theo yêu cầu.<br>- Kiểm tra khả năng kết nối và hoạt động của hệ thống.<br>- Xử lý các lỗi phát sinh trong quá trình triển khai. | 06/06 | 06/06 | Thực hành: YouTube FCJ Bootcamp 2025 - Workshop Lab |
-| 4 | - Hoàn thiện Event Worklog.<br>- Tổng hợp ghi chú học tập, hình ảnh Lab và kết quả triển khai.<br>- Cập nhật tài liệu kỹ thuật. | 07/06 | 07/06 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Chuẩn bị Proposal cho dự án.<br>- Xác định mục tiêu dự án.<br>- Lựa chọn các dịch vụ AWS phù hợp.<br>- Phác thảo sơ đồ kiến trúc hệ thống ban đầu. | 08/06 | 08/06 | Lý thuyết: https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Trao đổi Proposal với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh kiến trúc theo góp ý.<br>- Tổng kết kết quả Workshop và chuẩn bị cho giai đoạn triển khai dự án. | 09/06 | 09/06 | YouTube FCJ Bootcamp 2025 - Workshop Review |
+| 2 | - Ôn tập các dịch vụ EC2, VPC, S3 và IAM.<br>- Phân tích yêu cầu của Workshop.<br>- Xác định các dịch vụ AWS cần sử dụng để triển khai. | 05/06 | 05/06 |  |
+| 3 | - Hoàn thành Workshop được giao.<br>- Triển khai các tài nguyên AWS theo yêu cầu.<br>- Kiểm tra khả năng kết nối và hoạt động của hệ thống.<br>- Xử lý các lỗi phát sinh trong quá trình triển khai. | 06/06 | 06/06 |  |
+| 4 | - Hoàn thiện Event Worklog.<br>- Tổng hợp ghi chú học tập, hình ảnh Lab và kết quả triển khai.<br>- Cập nhật tài liệu kỹ thuật. | 07/06 | 07/06 |  |
+| 5 | - Chuẩn bị Proposal cho dự án.<br>- Xác định mục tiêu dự án.<br>- Lựa chọn các dịch vụ AWS phù hợp.<br>- Phác thảo sơ đồ kiến trúc hệ thống ban đầu. | 08/06 | 08/06 |  |
+| 6 | - Trao đổi Proposal với Mentor và các thành viên trong nhóm.<br>- Điều chỉnh kiến trúc theo góp ý.<br>- Tổng kết kết quả Workshop và chuẩn bị cho giai đoạn triển khai dự án. | 09/06 | 09/06 |  |
 
 ### Kết quả đạt được tuần 8
 

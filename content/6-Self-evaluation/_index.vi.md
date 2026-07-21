@@ -1,12 +1,12 @@
 ---
 title: "Tự đánh giá"
-date: 2024-01-01
+date: 2026-07-10
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong thời gian tham gia chương trình **First Cloud Journey Bootcamp** tại **Công ty TNHH Amazon Web Services Việt Nam** từ **17/04/2025** đến **30/06/2025**, em đã có cơ hội học tập, thực hành và áp dụng các kiến thức về AWS Cloud vào các bài Lab và dự án thực tế.
+Trong thời gian tham gia chương trình **First Cloud Journey Bootcamp** tại **Công ty TNHH Amazon Web Services Việt Nam** từ **17/04/2026** đến **30/07/2026**, em đã có cơ hội học tập, thực hành và áp dụng các kiến thức về AWS Cloud vào các bài Lab và dự án thực tế.
 
 Em đã tham gia tìm hiểu các dịch vụ AWS, thực hiện các bài thực hành, xây dựng kiến trúc hệ thống, triển khai dự án và hoàn thiện các tài liệu liên quan. Qua đó, em nâng cao được kiến thức về Cloud Computing, kỹ năng sử dụng AWS CLI, EC2, VPC, S3, IAM, làm việc nhóm và giải quyết vấn đề.
 

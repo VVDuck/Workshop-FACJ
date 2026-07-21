@@ -1,6 +1,6 @@
 ---
 title: "Week 10 Worklog"
-date: 2024-03-04
+date: 2026-06-23
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.10. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Set up the project development environment.<br>- Create AWS resources according to the architecture design.<br>- Configure IAM permissions, networking and storage resources. | 19/06 | 19/06 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Develop the application modules.<br>- Deploy application components on AWS services.<br>- Configure EC2, S3 and VPC resources.<br>- Verify service integration. | 20/06 | 20/06 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - Project Deployment Lab |
-| 4 | - Continue project implementation.<br>- Configure application connectivity.<br>- Validate data communication between services.<br>- Resolve deployment issues. | 21/06 | 21/06 | YouTube FCJ Bootcamp 2025 - AWS Deployment Lab |
-| 5 | - Perform functional testing.<br>- Verify application features.<br>- Review security configuration and access permissions.<br>- Optimize resource configuration where necessary. | 22/06 | 22/06 | YouTube FCJ Bootcamp 2025 - Project Testing Lab |
-| 6 | - Review project progress with the team.<br>- Fix identified issues.<br>- Update deployment documentation.<br>- Prepare for the final development phase. | 23/06 | 23/06 | Internal project documents |
+| 2 | - Set up the project development environment.<br>- Create AWS resources according to the architecture design.<br>- Configure IAM permissions, networking and storage resources. | 19/06 | 19/06 |  |
+| 3 | - Develop the application modules.<br>- Deploy application components on AWS services.<br>- Configure EC2, S3 and VPC resources.<br>- Verify service integration. | 20/06 | 20/06 |  |
+| 4 | - Continue project implementation.<br>- Configure application connectivity.<br>- Validate data communication between services.<br>- Resolve deployment issues. | 21/06 | 21/06 |  |
+| 5 | - Perform functional testing.<br>- Verify application features.<br>- Review security configuration and access permissions.<br>- Optimize resource configuration where necessary. | 22/06 | 22/06 |  |
+| 6 | - Review project progress with the team.<br>- Fix identified issues.<br>- Update deployment documentation.<br>- Prepare for the final development phase. | 23/06 | 23/06 |  |
 
 ### Week 10 Achievements
 

@@ -1,6 +1,6 @@
 ---
 title: "Week 2 Worklog"
-date: 2024-01-08
+date: 2026-04-28
 weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.2. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Review AWS Global Infrastructure and IAM.<br>- Explore AWS Management Console.<br>- Learn how to search and access AWS services efficiently.<br>- Understand the AWS Console dashboard and service categories. | 24/04 | 24/04 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Install AWS CLI on Windows/Linux.<br>- Configure AWS CLI using aws configure .<br>- Learn Access Key, Secret Access Key and Default Region.<br>- Verify CLI installation. | 25/04 | 25/04 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - AWS CLI Installation Lab |
-| 4 | - Learn commonly used AWS CLI commands.<br>&emsp;+ aws configure list<br>&emsp;+ aws sts get-caller-identity<br>&emsp;+ aws ec2 describe-regions<br>&emsp;+ aws ec2 describe-instances<br>&emsp;+ aws iam list-users | 26/04 | 26/04 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - AWS CLI Basic Commands Lab |
-| 5 | - Practice creating and managing EC2 Key Pairs using CLI.<br>- Learn AWS CLI output formats (json, yaml, table, text).<br>- Understand AWS CLI Help documentation.<br>- Practice filtering command outputs. | 27/04 | 27/04 | YouTube FCJ Bootcamp 2025 - AWS CLI Practice Lab |
-| 6 | - Complete AWS CLI practice labs.<br>- Review Console and CLI integration.<br>- Compare resource management between GUI and CLI.<br>- Summarize weekly learning results. | 28/04 | 28/04 | YouTube FCJ Bootcamp 2025 - AWS CLI Lab |
+| 2 | - Review AWS Global Infrastructure and IAM.<br>- Explore AWS Management Console.<br>- Learn how to search and access AWS services efficiently.<br>- Understand the AWS Console dashboard and service categories. | 24/04 | 24/04 | https://www.youtube.com/watch?v=pjr5a-HYAjI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=7 |
+| 3 | - Install AWS CLI on Windows/Linux.<br>- Configure AWS CLI using aws configure .<br>- Learn Access Key, Secret Access Key and Default Region.<br>- Verify CLI installation. | 25/04 | 25/04 |  |
+| 4 | - Learn commonly used AWS CLI commands.<br>&emsp;+ aws configure list<br>&emsp;+ aws sts get-caller-identity<br>&emsp;+ aws ec2 describe-regions<br>&emsp;+ aws ec2 describe-instances<br>&emsp;+ aws iam list-users | 26/04 | 26/04 |  |
+| 5 | - Practice creating and managing EC2 Key Pairs using CLI.<br>- Learn AWS CLI output formats (json, yaml, table, text).<br>- Understand AWS CLI Help documentation.<br>- Practice filtering command outputs. | 27/04 | 27/04 | https://000003.awsstudygroup.com/ |
+| 6 | - Complete AWS CLI practice labs.<br>- Review Console and CLI integration.<br>- Compare resource management between GUI and CLI.<br>- Summarize weekly learning results. | 28/04 | 28/04 |  |
 
 ### Week 2 Achievements
 

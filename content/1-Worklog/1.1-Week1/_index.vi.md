@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 1"
-date: 2024-01-01
+date: 2026-04-21
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -22,11 +22,11 @@ pre: " <b> 1.1. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|-----------|--------------|-----------------|----------------|
-| 2 | - Làm quen với Mentor và các thành viên FCAJ.<br>- Đọc nội quy thực tập và lộ trình Bootcamp.<br>- Thiết lập môi trường học tập (Discord, GitHub, LMS). | 17/04 | 17/04 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Tìm hiểu Cloud Computing.<br>&emsp;+ Khái niệm Cloud Computing.<br>&emsp;+ Mô hình triển khai Cloud.<br>&emsp;+ Mô hình dịch vụ IaaS, PaaS, SaaS.<br>&emsp;+ Lợi ích của Cloud.<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location). | 18/04 | 18/04 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Tạo AWS Free Tier Account.<br>- Xác thực tài khoản.<br>- Tìm hiểu AWS Billing Dashboard.<br>- Làm quen AWS Management Console.<br>- Học IAM cơ bản. | 19/04 | 19/04 | Lý thuyết: https://cloudjourney.awsstudygroup.com/<br>Thực hành: YouTube FCJ Bootcamp 2025 - AWS Account & IAM Lab |
-| 5 | - Thực hành IAM.<br>&emsp;+ Tạo IAM User.<br>&emsp;+ Tạo User Group.<br>&emsp;+ Gán quyền AdministratorAccess.<br>&emsp;+ Bật MFA.<br>&emsp;+ Cấu hình Login URL.<br>- Tìm hiểu bảo mật Root User. | 20/04 | 20/04 | YouTube FCJ Bootcamp 2025 - IAM Lab |
-| 6 | - Khám phá AWS Console.<br>- Tìm hiểu các dịch vụ AWS phổ biến.<br>&emsp;+ EC2<br>&emsp;+ S3<br>&emsp;+ VPC<br>&emsp;+ RDS<br>&emsp;+ IAM<br>- Ôn tập kiến thức tuần và hoàn thành bài thực hành. | 21/04 | 21/04 | https://cloudjourney.awsstudygroup.com/ |
+| 2 | - Làm quen với Mentor và các thành viên FCAJ.<br>- Đọc nội quy thực tập và lộ trình Bootcamp.<br>- Thiết lập môi trường học tập (Discord, GitHub, LMS). | 17/04 | 17/04 |  |
+| 3 | - Tìm hiểu Cloud Computing.<br>&emsp;+ Khái niệm Cloud Computing.<br>&emsp;+ Mô hình triển khai Cloud.<br>&emsp;+ Mô hình dịch vụ IaaS, PaaS, SaaS.<br>&emsp;+ Lợi ích của Cloud.<br>&emsp;+ AWS Global Infrastructure (Region, Availability Zone, Edge Location). | 18/04 | 18/04 | https://www.youtube.com/watch?v=HxYZAK1coOI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=4 |
+| 4 | - Tạo AWS Free Tier Account.<br>- Xác thực tài khoản.<br>- Tìm hiểu AWS Billing Dashboard.<br>- Làm quen AWS Management Console.<br>- Học IAM cơ bản. | 19/04 | 19/04 | https://000001.awsstudygroup.com/vi/ |
+| 5 | - Thực hành IAM.<br>&emsp;+ Tạo IAM User.<br>&emsp;+ Tạo User Group.<br>&emsp;+ Gán quyền AdministratorAccess.<br>&emsp;+ Bật MFA.<br>&emsp;+ Cấu hình Login URL.<br>- Tìm hiểu bảo mật Root User. | 20/04 | 20/04 | https://000001.awsstudygroup.com/vi/ |
+| 6 | - Khám phá AWS Console.<br>- Tìm hiểu các dịch vụ AWS phổ biến.<br>&emsp;+ EC2<br>&emsp;+ S3<br>&emsp;+ VPC<br>&emsp;+ RDS<br>&emsp;+ IAM<br>- Ôn tập kiến thức tuần và hoàn thành bài thực hành. | 21/04 | 21/04 | https://www.youtube.com/watch?v=HSzrWGqo3ME&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=6 |
 
 ### Kết quả đạt được tuần 1
 

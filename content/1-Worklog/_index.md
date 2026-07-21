@@ -1,12 +1,12 @@
 ---
 title: "Worklog"
-date: 2024-01-01
+date: 2026-07-10
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Throughout the **12-week First Cloud Journey Bootcamp - 2025** internship program, I recorded my weekly learning progress, practical exercises, project development activities, and technical achievements. The worklog reflects the knowledge acquired, hands-on AWS labs completed, and project implementation milestones from the beginning of the internship until the final report.
+Throughout the **12-week First Cloud Journey Bootcamp - 2026** internship program, I recorded my weekly learning progress, practical exercises, project development activities, and technical achievements. The worklog reflects the knowledge acquired, hands-on AWS labs completed, and project implementation milestones from the beginning of the internship until the final report.
 
 The program was completed over **12 weeks**, progressing from learning AWS fundamentals to designing, deploying, and completing a cloud-based project on Amazon Web Services (AWS). Each week focused on a specific learning objective and practical activities, helping strengthen both cloud computing knowledge and hands-on skills.
 

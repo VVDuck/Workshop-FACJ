@@ -1,12 +1,12 @@
 ---
 title: "Chia sẻ, đóng góp ý kiến"
-date: 2024-01-01
+date: 2026-07-05
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Tham gia **First Cloud Journey Bootcamp - 2025** là một trải nghiệm rất ý nghĩa đối với em. Trong 12 tuần học tập, em đã được tiếp cận kiến thức về AWS, thực hành nhiều bài Lab và có cơ hội triển khai một dự án thực tế. Em xin gửi lời cảm ơn đến đội ngũ FCAJ đã tổ chức một chương trình học tập chất lượng và bổ ích.
+> Tham gia **First Cloud Journey Bootcamp - 2026** là một trải nghiệm rất ý nghĩa đối với em. Trong 12 tuần học tập, em đã được tiếp cận kiến thức về AWS, thực hành nhiều bài Lab và có cơ hội triển khai một dự án thực tế. Em xin gửi lời cảm ơn đến đội ngũ FCAJ đã tổ chức một chương trình học tập chất lượng và bổ ích.
 
 ### Đánh giá chung
 

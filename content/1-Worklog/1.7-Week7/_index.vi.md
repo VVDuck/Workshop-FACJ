@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 7"
-date: 2024-02-12
+date: 2026-06-02
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Ôn tập kiến thức về Amazon EC2 và Amazon S3.<br>- So sánh dịch vụ Compute và Storage.<br>- Ôn lại các mô hình triển khai ứng dụng sử dụng EC2 kết hợp với S3. | 29/05 | 29/05 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành tải dữ liệu (Load Data) lên Amazon S3.<br>- Quản lý Object và tổ chức dữ liệu trong Bucket.<br>- Kiểm tra dữ liệu đã tải lên và quyền truy cập. | 30/05 | 30/05 | Lý thuyết: https://cloudjourney.awsstudygroup.com/<br>Thực hành: YouTube FCJ Bootcamp 2025 - Amazon S3 Data Upload Lab |
-| 4 | - Tìm hiểu các kiến thức cơ bản về AWS Security.<br>&emsp;+ Shared Responsibility Model.<br>&emsp;+ Principle of Least Privilege.<br>&emsp;+ IAM Policy và IAM Role.<br>&emsp;+ Multi-Factor Authentication (MFA). | 31/05 | 31/05 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thực hành quản lý bảo mật với IAM.<br>- Cấu hình IAM Policy và IAM Role.<br>- Kiểm tra quyền của người dùng.<br>- Ôn tập Security Group và Bucket Policy.<br>- Tìm hiểu các Best Practices về bảo mật trên AWS. | 01/06 | 01/06 | Lý thuyết: https://cloudjourney.awsstudygroup.com/<br>Thực hành: YouTube FCJ Bootcamp 2025 - AWS Security Lab |
-| 6 | - Ôn tập toàn bộ các bài Lab về EC2, S3 và Security đã thực hiện.<br>- Tổng hợp tài liệu học tập và ghi chú kỹ thuật.<br>- Hoàn thành bài ôn tập và tổng kết kiến thức trong tuần. | 02/06 | 02/06 | YouTube FCJ Bootcamp 2025 - Review & Practice Lab |
+| 2 | - Ôn tập kiến thức về Amazon EC2 và Amazon S3.<br>- So sánh dịch vụ Compute và Storage.<br>- Ôn lại các mô hình triển khai ứng dụng sử dụng EC2 kết hợp với S3. | 29/05 | 29/05 |  |
+| 3 | - Thực hành tải dữ liệu (Load Data) lên Amazon S3.<br>- Quản lý Object và tổ chức dữ liệu trong Bucket.<br>- Kiểm tra dữ liệu đã tải lên và quyền truy cập. | 30/05 | 30/05 | https://000057.awsstudygroup.com/2-prerequiste/ |
+| 4 | - Tìm hiểu các kiến thức cơ bản về AWS Security.<br>&emsp;+ Shared Responsibility Model.<br>&emsp;+ Principle of Least Privilege.<br>&emsp;+ IAM Policy và IAM Role.<br>&emsp;+ Multi-Factor Authentication (MFA). | 31/05 | 31/05 | https://www.youtube.com/watch?v=clj2E0rNBEs&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=156 |
+| 5 | - Thực hành quản lý bảo mật với IAM.<br>- Cấu hình IAM Policy và IAM Role.<br>- Kiểm tra quyền của người dùng.<br>- Ôn tập Security Group và Bucket Policy.<br>- Tìm hiểu các Best Practices về bảo mật trên AWS. | 01/06 | 01/06 | https://000028.awsstudygroup.com/ |
+| 6 | - Ôn tập toàn bộ các bài Lab về EC2, S3 và Security đã thực hiện.<br>- Tổng hợp tài liệu học tập và ghi chú kỹ thuật.<br>- Hoàn thành bài ôn tập và tổng kết kiến thức trong tuần. | 02/06 | 02/06 |  |
 
 ### Kết quả đạt được tuần 7
 

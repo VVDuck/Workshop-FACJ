@@ -1,6 +1,6 @@
 ---
 title: "Week 4 Worklog"
-date: 2024-01-22
+date: 2026-05-12
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.4. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Review Amazon EC2 concepts.<br>- Learn the architecture of Amazon VPC.<br>- Understand CIDR Blocks, IPv4 addressing and VPC components. | 08/05 | 08/05 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Learn about Internet Gateway (IGW).<br>- Learn about NAT Gateway.<br>- Compare Public Subnet and Private Subnet.<br>- Understand Internet access flow inside a VPC. | 09/05 | 09/05 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Configure a custom VPC.<br>- Create Public Subnet and Private Subnet.<br>- Configure Route Tables.<br>- Associate Route Tables with Subnets. | 10/05 | 10/05 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - VPC & Subnet Lab |
-| 5 | - Launch EC2 instances in different Subnets.<br>- Configure Security Groups and Network ACLs.<br>- Test network connectivity between instances.<br>- Verify Internet access using Internet Gateway. | 11/05 | 11/05 | YouTube FCJ Bootcamp 2025 - EC2 Networking Lab |
-| 6 | - Practice NAT Gateway configuration for Private EC2 instances.<br>- Review EC2 network management.<br>- Complete VPC networking practice labs.<br>- Summarize weekly learning outcomes. | 12/05 | 12/05 | YouTube FCJ Bootcamp 2025 - NAT Gateway Lab |
+| 2 | - Review Amazon EC2 concepts.<br>- Learn the architecture of Amazon VPC.<br>- Understand CIDR Blocks, IPv4 addressing and VPC components. | 08/05 | 08/05 | https://www.youtube.com/watch?v=O9Ac_vGHquM&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=25 |
+| 3 | - Learn about Internet Gateway (IGW).<br>- Learn about NAT Gateway.<br>- Compare Public Subnet and Private Subnet.<br>- Understand Internet access flow inside a VPC. | 09/05 | 09/05 | https://www.youtube.com/watch?v=O9Ac_vGHquM&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=25 |
+| 4 | - Configure a custom VPC.<br>- Create Public Subnet and Private Subnet.<br>- Configure Route Tables.<br>- Associate Route Tables with Subnets. | 10/05 | 10/05 | https://000003.awsstudygroup.com/3-prerequisite/ |
+| 5 | - Launch EC2 instances in different Subnets.<br>- Configure Security Groups and Network ACLs.<br>- Test network connectivity between instances.<br>- Verify Internet access using Internet Gateway. | 11/05 | 11/05 | https://000003.awsstudygroup.com/4-createec2server/ |
+| 6 | - Practice NAT Gateway configuration for Private EC2 instances.<br>- Review EC2 network management.<br>- Complete VPC networking practice labs.<br>- Summarize weekly learning outcomes. | 12/05 | 12/05 | https://000003.awsstudygroup.com/4-createec2server/4.3-natgateway/ |
 
 ### Week 4 Achievements
 

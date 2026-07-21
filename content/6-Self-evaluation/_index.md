@@ -1,12 +1,12 @@
 ---
 title: "Self-Assessment"
-date: 2024-01-01
+date: 2026-07-10
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship in the **First Cloud Journey Bootcamp** at **Amazon Web Services Viet Nam Company Limited** from **17/04/2025** to **30/06/2025**, I had the opportunity to learn, practice, and apply AWS Cloud knowledge through hands-on labs and practical projects.
+During my internship in the**First Cloud Journey Bootcamp** at **Amazon Web Services Viet Nam Company Limited** from **17/04/2026** to **30/07/2026**, I had the opportunity to learn, practice, and apply AWS Cloud knowledge through hands-on labs and practical projects.
 
 I learned various AWS services, completed practical exercises, designed cloud architectures, deployed cloud resources, and prepared project documentation. Through these activities, I improved my knowledge of Cloud Computing, AWS CLI, EC2, VPC, S3, IAM, teamwork, and problem-solving skills.
 

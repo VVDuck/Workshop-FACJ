@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Worklog"
-date: 2024-01-01
+date: 2026-04-21
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -22,11 +22,11 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|-------------------|
-| 2 | - Introduce yourself to FCAJ mentors and members.<br>- Read internship regulations and weekly learning roadmap.<br>- Set up working environment and communication channels (Discord, GitHub, LMS). | 17/04 | 17/04 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Learn Cloud Computing fundamentals.<br>&emsp;+ What is Cloud Computing?<br>&emsp;+ Cloud Deployment Models.<br>&emsp;+ Service Models (IaaS, PaaS, SaaS).<br>&emsp;+ Advantages of Cloud Computing.<br>&emsp;+ AWS Global Infrastructure (Region, AZ, Edge Location). | 18/04 | 18/04 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Create AWS Free Tier Account.<br>- Verify account information.<br>- Learn AWS Billing Dashboard.<br>- Explore AWS Management Console.<br>- Learn IAM fundamentals. | 19/04 | 19/04 | Theory: https://cloudjourney.awsstudygroup.com/<br>Practice: YouTube FCJ Bootcamp 2025 - AWS Account & IAM Lab |
-| 5 | - Practice IAM.<br>&emsp;+ Create IAM User.<br>&emsp;+ Create User Group.<br>&emsp;+ Assign AdministratorAccess policy.<br>&emsp;+ Enable MFA.<br>&emsp;+ Configure Login URL.<br>- Understand Root User security best practices. | 20/04 | 20/04 | YouTube FCJ Bootcamp 2025 - IAM Lab |
-| 6 | - Explore AWS Console.<br>- Learn common AWS services.<br>&emsp;+ EC2<br>&emsp;+ S3<br>&emsp;+ VPC<br>&emsp;+ RDS<br>&emsp;+ IAM<br>- Review weekly knowledge and complete practice exercises. | 21/04 | 21/04 | https://cloudjourney.awsstudygroup.com/ |
+| 2 | - Introduce yourself to FCAJ mentors and members.<br>- Read internship regulations and weekly learning roadmap.<br>- Set up working environment and communication channels (Discord, GitHub, LMS). | 17/04 | 17/04 |  |
+| 3 | - Learn Cloud Computing fundamentals.<br>&emsp;+ What is Cloud Computing?<br>&emsp;+ Cloud Deployment Models.<br>&emsp;+ Service Models (IaaS, PaaS, SaaS).<br>&emsp;+ Advantages of Cloud Computing.<br>&emsp;+ AWS Global Infrastructure (Region, AZ, Edge Location). | 18/04 | 18/04 | https://www.youtube.com/watch?v=HxYZAK1coOI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=4 |
+| 4 | - Create AWS Free Tier Account.<br>- Verify account information.<br>- Learn AWS Billing Dashboard.<br>- Explore AWS Management Console.<br>- Learn IAM fundamentals. | 19/04 | 19/04 | https://000001.awsstudygroup.com/vi/ |
+| 5 | - Practice IAM.<br>&emsp;+ Create IAM User.<br>&emsp;+ Create User Group.<br>&emsp;+ Assign AdministratorAccess policy.<br>&emsp;+ Enable MFA.<br>&emsp;+ Configure Login URL.<br>- Understand Root User security best practices. | 20/04 | 20/04 | https://000001.awsstudygroup.com/vi/ |
+| 6 | - Explore AWS Console.<br>- Learn common AWS services.<br>&emsp;+ EC2<br>&emsp;+ S3<br>&emsp;+ VPC<br>&emsp;+ RDS<br>&emsp;+ IAM<br>- Review weekly knowledge and complete practice exercises. | 21/04 | 21/04 | https://www.youtube.com/watch?v=HSzrWGqo3ME&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=6 |
 
 ### Week 1 Achievements
 

@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 12"
-date: 2024-03-18
+date: 2026-07-07
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -18,11 +18,11 @@ pre: " <b> 1.12. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Tổng hợp tiến độ thực tập và các công việc đã hoàn thành.<br>- Sắp xếp Worklog, tài liệu kỹ thuật và hình ảnh minh chứng.<br>- Kiểm tra lại các sản phẩm của dự án. | 03/07 | 03/07 | Tài liệu nội bộ dự án |
-| 3 | - Viết báo cáo thực tập.<br>- Mô tả quá trình học tập, các dịch vụ AWS đã sử dụng và quá trình triển khai dự án.<br>- Hoàn thiện tài liệu kỹ thuật. | 04/07 | 04/07 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Rà soát nội dung báo cáo.<br>- Cập nhật sơ đồ kiến trúc, quy trình triển khai và hình ảnh minh họa.<br>- Kiểm tra định dạng và tài liệu tham khảo. | 05/07 | 05/07 | Tài liệu nội bộ dự án |
-| 5 | - Hoàn thiện báo cáo thực tập.<br>- Kiểm tra mã nguồn và các tài liệu liên quan của dự án.<br>- Chuẩn bị slide và nội dung trình bày báo cáo. | 06/07 | 06/07 | Tài liệu nội bộ dự án |
-| 6 | - Hoàn tất hồ sơ và nộp báo cáo thực tập.<br>- Tổng kết các kiến thức và kỹ năng đã đạt được.<br>- Xây dựng kế hoạch học tập và lộ trình chứng chỉ AWS trong tương lai. | 07/07 | 07/07 | AWS Skill Builder<br>https://cloudjourney.awsstudygroup.com/ |
+| 2 | - Tổng hợp tiến độ thực tập và các công việc đã hoàn thành.<br>- Sắp xếp Worklog, tài liệu kỹ thuật và hình ảnh minh chứng.<br>- Kiểm tra lại các sản phẩm của dự án. | 03/07 | 03/07 |  |
+| 3 | - Viết báo cáo thực tập.<br>- Mô tả quá trình học tập, các dịch vụ AWS đã sử dụng và quá trình triển khai dự án.<br>- Hoàn thiện tài liệu kỹ thuật. | 04/07 | 04/07 |  |
+| 4 | - Rà soát nội dung báo cáo.<br>- Cập nhật sơ đồ kiến trúc, quy trình triển khai và hình ảnh minh họa.<br>- Kiểm tra định dạng và tài liệu tham khảo. | 05/07 | 05/07 |  |
+| 5 | - Hoàn thiện báo cáo thực tập.<br>- Kiểm tra mã nguồn và các tài liệu liên quan của dự án.<br>- Chuẩn bị slide và nội dung trình bày báo cáo. | 06/07 | 06/07 |  |
+| 6 | - Hoàn tất hồ sơ và nộp báo cáo thực tập.<br>- Tổng kết các kiến thức và kỹ năng đã đạt được.<br>- Xây dựng kế hoạch học tập và lộ trình chứng chỉ AWS trong tương lai. | 07/07 | 07/07 |  |
 
 ### Kết quả đạt được tuần 12
 
