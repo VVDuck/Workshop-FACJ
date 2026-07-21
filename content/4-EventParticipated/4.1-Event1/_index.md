@@ -10,7 +10,7 @@ pre: " <b> 4.1. </b> "
 
 ### Event Objectives
 
-- Encourage continuous learning habits in the AI era.
+- A guide on how to make learning as engaging and habitual as the addiction to scrolling through social media.
 - Introduce practical techniques to improve Large Language Model (LLM) outputs.
 - Prepare students and fresh graduates with AI-ready skills and mindset.
 - Present the BMAD Method for integrating AI into modern software development workflows.
@@ -20,7 +20,7 @@ pre: " <b> 4.1. </b> "
 - **Huynh Hoang Long** – Admin of FCAI
 - **Nguyen Tuan Thinh** – DevOps/Cloud Engineer, First Cloud AI Journey
 - **AI Journey Community Speaker** – AI-Ready Freshers
-- **AI Journey Community Speaker** – BMAD Method
+- **Mrs.Thao admin FACJ** – BMAD Method
 
 ### Key Highlights
 
