@@ -8,7 +8,7 @@ pre: " <b> 3. </b> "
 
 
 
-This section will list and introduce the blogs you have posted to [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). For example:
+
 
 ###  ## [Blog 1 - Multi-AZ vs. Read Replica: I Used to Confuse Them Too!](3.1-Blog1/)
 

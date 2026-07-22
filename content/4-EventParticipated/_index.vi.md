@@ -1,6 +1,6 @@
 ---
 title: "Các events đã tham gia"
-date: 2024-01-01
+date: 2026-07-10
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
@@ -10,7 +10,7 @@ pre: " <b> 4. </b> "
 Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
 
 ### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** phương pháp **Automated Prompt Engineering** nhằm nâng cao chất lượng phản hồi của các mô hình ngôn ngữ lớn (LLMs).
+&emsp;**Tên sự kiện:** phương pháp Automated Prompt Engineering nhằm nâng cao chất lượng phản hồi của các mô hình ngôn ngữ lớn (LLMs).
 
 &emsp;**Thời gian:** 09:00 ngày 09/05/2026
 

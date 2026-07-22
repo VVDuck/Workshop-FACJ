@@ -8,7 +8,7 @@ pre: " <b> 3. </b> "
 
 
 
-Tại đây sẽ là phần liệt kê, giới thiệu các blogs mà các bạn đã đăng trên [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). Ví dụ:
+
 
 ###  [Blog 1 - Multi-AZ hay Read Replica? Mình cũng từng nhầm!](3.1-Blog1/)
 Khi mới học về Amazon RDS, mình từng nghĩ rằng chỉ cần bật Multi-AZ là database vừa có khả năng chống sự cố, vừa tăng tốc độ xử lý nhờ có thêm một bản sao ở Availability Zone khác. Sau khi tìm hiểu kỹ hơn để chuẩn bị cho dự án thực tập, mình mới nhận ra đây là một hiểu lầm khá phổ biến.

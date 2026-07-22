@@ -136,7 +136,7 @@ Presented by **Vy Lam** (Senior Business Systems Analyst, VPBank), this session 
 
 - Use clean and selective context when working with AI-assisted coding or prompt design.
 - Keep LingoRise split into separate flows for exam generation and Writing essay scoring.
-- Continue using the `extractJsonObject()` fallback parser to handle malformed JSON from LLM output.
+- Continue using the extractJsonObject() fallback parser to handle malformed JSON from LLM output.
 - Apply API boundary checks, prompt-injection defense, and rate limiting to protect future features.
 - Use CloudFront OAC, billing alerts, and TTL tuning to improve security and cost predictability for cloud assets.
 - Build enterprise features with a multi-agent mindset when the task is too complex for a single AI step.

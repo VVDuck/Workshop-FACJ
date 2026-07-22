@@ -136,7 +136,7 @@ Trình bày bởi diễn giả **Vy Lam** (Senior Business Systems Analyst, VPBa
 
 - Sử dụng context sạch và chọn lọc khi làm việc với AI hỗ trợ lập trình hoặc thiết kế prompt.
 - Tiếp tục tách LingoRise thành luồng tạo đề thi và luồng chấm điểm Writing riêng biệt.
-- Duy trì bộ parser fallback `extractJsonObject()` để xử lý JSON lỗi từ output của LLM.
+- Duy trì bộ parser fallback extractJsonObject() để xử lý JSON lỗi từ output của LLM.
 - Áp dụng kiểm tra biên API, chống prompt injection và rate limiting để bảo vệ các tính năng tương lai.
 - Dùng CloudFront OAC, billing alerts và tối ưu TTL để tăng độ an toàn và khả năng dự đoán chi phí cho tài nguyên cloud.
 - Thiết kế các tính năng cấp doanh nghiệp theo tư duy multi-agent khi bài toán quá phức tạp để một AI step xử lý một mình.
