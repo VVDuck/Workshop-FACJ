@@ -19,10 +19,10 @@ pre: " <b> 4.1. </b> "
 
 ### Mục Đích Của Sự Kiện
 
-- Hướng dẫn cách **biến việc học trở nên hấp dẫn và thường xuyên như cách mọi người nghiện lướt mạng xã hội**.
-- Giới thiệu phương pháp **Automated Prompt Engineering** nhằm nâng cao chất lượng phản hồi của các mô hình ngôn ngữ lớn (LLMs).
-- Trang bị cho sinh viên và Fresher các **kỹ năng, tư duy và định hướng nghề nghiệp** để thích nghi với thời đại AI.
-- Giới thiệu **BMAD Method**, phương pháp kết hợp AI và Agile nhằm nâng cao hiệu quả phát triển phần mềm.
+- Hướng dẫn cách biến việc học trở nên hấp dẫn và thường xuyên như cách mọi người nghiện lướt mạng xã hội.
+- Giới thiệu phương pháp Automated Prompt Engineering nhằm nâng cao chất lượng phản hồi của các mô hình ngôn ngữ lớn (LLMs).
+- Trang bị cho sinh viên và Fresher các kỹ năng, tư duy và định hướng nghề nghiệp để thích nghi với thời đại AI.
+- Giới thiệu BMAD Method, phương pháp kết hợp AI và Agile nhằm nâng cao hiệu quả phát triển phần mềm.
 
 ### Danh Sách Diễn Giả
 
@@ -87,7 +87,7 @@ Phiên chia sẻ giới thiệu BMAD Method – phương pháp kết hợp AI v�
 
 ### Tư Duy Học Tập
 
-- Muốn duy trì việc học lâu dài cần xây dựng **hệ thống học tập** thay vì chỉ dựa vào động lực.
+- Muốn duy trì việc học lâu dài cần xây dựng hệ thống học tập thay vì chỉ dựa vào động lực.
 - Việc chia nhỏ mục tiêu và tạo phản hồi tích cực giúp hình thành thói quen học hiệu quả.
 - Học tập liên tục là yếu tố quan trọng để thích nghi với sự phát triển nhanh của AI.
 

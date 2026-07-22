@@ -9,7 +9,7 @@ pre: " <b> 3.1. </b> "
 
 # Multi-AZ hay Read Replica? Mình cũng từng nhầm!
 
-Khi mới học về Amazon RDS, mình từng nhầm lẫn giữa Multi-AZ và Read Replica, và mình nghĩ đây cũng là điều khá nhiều bạn mới học AWS gặp phải. Hai tính năng này đều tạo thêm bản sao của database nhưng mục đích sử dụng hoàn toàn khác nhau. Trong bài viết này, mình sẽ tóm tắt những điểm khác biệt quan trọng để mọi người dễ ghi nhớ.
+Khi mới học về Amazon RDS, mình từng nhầm lẫn giữa **Multi-AZ** và **Read Replica**, và mình nghĩ đây cũng là điều khá nhiều bạn mới học AWS gặp phải. Hai tính năng này đều tạo thêm bản sao của database nhưng mục đích sử dụng hoàn toàn khác nhau. Trong bài viết này, mình sẽ tóm tắt những điểm khác biệt quan trọng để mọi người dễ ghi nhớ.
 
 Các điểm chính cần nắm:
 

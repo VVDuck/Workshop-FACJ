@@ -44,7 +44,7 @@ Phần đầu của sự kiện là vòng chung kết giữa hai đội xuất s
 
 #### AWS Security Agent
 
-Anh **Nguyễn Tuấn Thịnh** giới thiệu về **AWS Security Agent**, một dịch vụ bảo mật mới của AWS được tích hợp AI.
+Anh Nguyễn Tuấn Thịnh giới thiệu về AWS Security Agent, một dịch vụ bảo mật mới của AWS được tích hợp AI.
 
 - Giới thiệu tổng quan về Security Agent.
 - Phân tích các điểm mạnh và điểm hạn chế của dịch vụ.
