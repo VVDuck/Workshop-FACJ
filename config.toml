@@ -1,4 +1,4 @@
-baseURL = "https://github.com/VVDuck/Workshop-FACJ.git"
+baseURL = "https://VVDuck.github.io/Workshop-FACJ/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
