@@ -19,11 +19,11 @@ chapter: false
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** DevOps
+&emsp; **Lớp:** 22DTHB1
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
-&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud Journey
+&emsp; **Vị trí thực tập:** Devops
 
 &emsp; **Thời gian thực tập:** Từ ngày **17/04/2026** đến **30/07/2026**
 
